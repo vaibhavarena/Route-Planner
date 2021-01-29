@@ -1,6 +1,7 @@
 # Route-Planner
 
-<p>The implementation of memory management chatbot, the third project in Udacity C++ Nanodegree. The Chatbot's knowledge base consists of information about pointers in C++. The project requires implementation of mordern memory management techniques comprising use of smart pointers and implementing the "Rule of five" which extends as implementing copy and move sematics in code, improving speed and results in less usage of memory.</p>
+<p>Route planner app made using Open street map data and IO2D library. Pugixml library has been used for xml parsing
+to access map data.</p>
 
 <h2>Dependencies for Running Locally</h2>
 
